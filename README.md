@@ -1,15 +1,12 @@
-## Hi there 👋
-
-Here are some ideas to get you started:
+## Hi there It's me Gökay👋
 
 - 🔭 I'm currently a Master's student at IZTECH Computer Engineering Department
 - 🌱 I'm looking to collaborate on cryptography, machine learning, deep learning, and compiler projects
 - 👯 My main interests are machine learning, deep learning, natural language processing, agentic AI, cryptography, software design, and object-oriented analysis
 - 🤔 I like playing games (especially the fun of PlayStation, I've been playing series since I was 4 years old)
-- 💬 You can ask me about ...
+- 💬 You can ask me about Academic Writing with LaTex, I'd be happy to help you as much as I can for you academic deeds
 - 📫 You can reach me via: gokaygulsoy144@gmail.com
 
--->
 # 💫 About Me:
 I'm currently a Master's student at IZTECH Computer Engineering Department<br>I'm looking to collaborate on cryptography and machine learning projects<br>My main interests are machine learning, deep learning, natural language proccessing, agentic AI, software design and object-oriented analysis<br>I like playing games (especially fun of Playstation, I've been playing series since I was 4 years old)<br>
 
