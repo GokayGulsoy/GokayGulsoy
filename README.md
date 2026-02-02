@@ -26,7 +26,7 @@ I'm currently a Master's student at IZTECH Computer Engineering Department<br>I'
 ![](https://github-profile-trophy.vercel.app/?username=GokayGulsoy&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![Contribution Stats](https://github-contribution-stats-git-master-gokay-gulsoys-projects.vercel.app/api/?username=GokayGulsoy)](https://github.com/LordDashMe/github-contribution-stats/)
+![Contribution Stats](https://github-contribution-stats-git-master-gokay-gulsoys-projects.vercel.app/api/?username=GokayGulsoy)
 
 ---
 ![](https://visitcount.itsvg.in/api?id=GokayGulsoy&icon=3&color=0)](https://visitcount.itsvg.in)
