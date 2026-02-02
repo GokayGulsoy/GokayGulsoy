@@ -26,6 +26,7 @@ I'm currently a Master's student at IZTECH Computer Engineering Department<br>I'
 ![](https://github-profile-trophy.vercel.app/?username=GokayGulsoy&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 GitHub Profile Rating
+[![Anurag's GitHub stats](https://github-contribution-stats-git-master-gokay-gulsoys-projects.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 ![Contribution Stats](https://github-contribution-stats-ten.vercel.app/api/github/v1?username=GokayGulsoy)
 
 ---
