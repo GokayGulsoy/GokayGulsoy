@@ -25,10 +25,10 @@ I'm currently a Master's student at IZTECH Computer Engineering Department<br>I'
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=GokayGulsoy&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![Contribution Stats](https://github-contribution-stats-git-master-gokay-gulsoys-projects.vercel.app/api/?username=GokayGulsoy)
+### 🔝 GitHub Profile Rating
+![Contribution Stats](https://github-contribution-stats-git-master-gokay-gulsoys-projects.vercel.app/api/github/v1?username=GokayGulsoy)
 
 ---
-![](https://visitcount.itsvg.in/api?id=GokayGulsoy&icon=3&color=0)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=GokayGulsoy&icon=3&color=0)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
